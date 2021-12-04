@@ -1,0 +1,11 @@
+filename,matrix_size,nb_threads,timing
+matrixnorm.out,16,16,0.00261308
+matrixnorm.out,32,16,0.0030280000000000003
+matrixnorm.out,64,16,0.0031786800000000006
+matrixnorm.out,128,16,0.00345436
+matrixnorm.out,256,16,0.0033910799999999994
+matrixnorm.out,512,16,0.014272920000000001
+matrixnorm.out,1024,16,0.054599760000000004
+matrixnorm.out,2048,16,0.30486256
+matrixnorm.out,4096,16,3.092737
+matrixnorm.out,8192,16,22.181388
